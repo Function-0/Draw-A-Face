@@ -1,0 +1,14 @@
+C:\Users\Function\source\repos\sec006-5_COMP123_04\Program\bin\Debug\Program.exe.config
+C:\Users\Function\source\repos\sec006-5_COMP123_04\Program\bin\Debug\Program.exe
+C:\Users\Function\source\repos\sec006-5_COMP123_04\Program\bin\Debug\Program.pdb
+C:\Users\Function\source\repos\sec006-5_COMP123_04\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Function\source\repos\sec006-5_COMP123_04\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Function\source\repos\sec006-5_COMP123_04\Program\obj\Debug\Program.exe
+C:\Users\Function\source\repos\sec006-5_COMP123_04\Program\obj\Debug\Program.pdb
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 4\sec006-5_COMP123_04\Program\bin\Debug\Program.exe.config
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 4\sec006-5_COMP123_04\Program\bin\Debug\Program.exe
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 4\sec006-5_COMP123_04\Program\bin\Debug\Program.pdb
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 4\sec006-5_COMP123_04\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 4\sec006-5_COMP123_04\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 4\sec006-5_COMP123_04\Program\obj\Debug\Program.exe
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 4\sec006-5_COMP123_04\Program\obj\Debug\Program.pdb
